@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Food and Drink
+  - Apple :apple:
+  - Beers :beers:
+  - Cheese :cheese:
